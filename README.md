@@ -61,6 +61,10 @@ Edit
 
 ---
 
+<img width="1919" height="1010" alt="Image" src="https://github.com/user-attachments/assets/d7cda69e-08fb-41a0-a4c1-b2ca38615424" />
+<img width="1919" height="1016" alt="Image" src="https://github.com/user-attachments/assets/d8b042ea-8a09-4e11-bfdd-ce40e2513292" />
+<img width="954" height="1014" alt="Image" src="https://github.com/user-attachments/assets/6462fc3b-7b21-49cb-bf35-ecbe679cc0cd" />
+
 ## ⚙️ Setup Instructions (Local)
 
 > Ensure you have **Anaconda** or **Python 3.10+** installed.
