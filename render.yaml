@@ -1,0 +1,41 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "0a20a9e5-73a6-4543-93c5-404b2efda90b",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "services:\n",
+    "  - type: web\n",
+    "    name: fastapi-ml-api\n",
+    "    env: python\n",
+    "    plan: free\n",
+    "    buildCommand: \"pip install -r requirements.txt\"\n",
+    "    startCommand: \"uvicorn app:app --host 0.0.0.0 --port 10000\"\n"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python [conda env:ds_project]",
+   "language": "python",
+   "name": "conda-env-ds_project-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.11.13"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
