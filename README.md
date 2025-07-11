@@ -1,3 +1,13 @@
+
+## 🏢 Internship Details
+
+- **Company**: CODTECH IT SOLUTIONS  
+- **Intern Name**: Shobana Balusamy
+- **Intern ID**: CITS0D117  
+- **Domain**: Data Science
+- **Duration**: 4 Weeks  
+- **Mentor**: Neela Santosh
+
 # 📈 Bank Marketing Campaign Prediction API (FastAPI + Anaconda + Render)
 
 This project is a complete end-to-end Machine Learning pipeline that builds a **predictive API for bank marketing success**. It uses the Bank Marketing dataset to train a classifier to predict whether a client will subscribe to a term deposit based on personal and campaign features. The trained model is served through a **FastAPI web application** and deployed on **Render** using a `render.yaml` infrastructure-as-code setup.
